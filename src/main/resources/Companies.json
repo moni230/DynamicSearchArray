@@ -1,0 +1,155 @@
+{
+  "Companies": [
+    {
+      "Company": "BlueScope",
+      "Projects": [
+        {
+          "Employees": [
+            {
+              "EmployeeId": 101,
+              "EmployeeName": "Arun",
+              "Skills": [
+                "Java",
+                "Servlet",
+                "JSP",
+                "SpringBoot"
+              ]
+            },
+            {
+              "EmployeeId": 102,
+              "EmployeeName": "Ajay",
+              "Skills": [
+                "Java",
+                "React",
+                "JSP",
+                "Angular"
+              ]
+            }
+          ],
+          "ProjectId": 1,
+          "ProjectName": "Godrej"
+        },
+        {
+          "Employees": [
+            {
+              "EmployeeId": 103,
+              "EmployeeName": "John",
+              "Skills": [
+                "Python",
+                "Django",
+                "FastAPI"
+              ]
+            },
+            {
+              "EmployeeId": 104,
+              "EmployeeName": "Jeni",
+              "Skills": [
+                "Java",
+                "React",
+                "JSP",
+                "Angular"
+              ]
+            }
+          ],
+          "ProjectId": 2,
+          "ProjectName": "PayElite"
+        },
+        {
+          "Employees": [
+            {
+              "EmployeeId": 105,
+              "EmployeeName": "Jack",
+              "Skills": [
+                "Python",
+                "Flask"
+              ]
+            },
+            {
+              "EmployeeId": 106,
+              "EmployeeName": "Rose",
+              "Skills": [
+                "Dot net",
+                "Ruby"
+              ]
+            }
+          ],
+          "ProjectId": 3,
+          "ProjectName": "BigBasket"
+        }
+      ]
+    },
+    {
+      "Company": "TechNova",
+      "Projects": [
+        {
+          "Employees": [
+            {
+              "EmployeeId": 107,
+              "EmployeeName": "Sam",
+              "Skills": [
+                "Servlet",
+                "SpringBoot"
+              ]
+            },
+            {
+              "EmployeeId": 108,
+              "EmployeeName": "Angeline",
+              "Skills": [
+                "React",
+                "Javascript",
+                "Angular"
+              ]
+            }
+          ],
+          "ProjectId": 4,
+          "ProjectName": "Swiggy"
+        },
+        {
+          "Employees": [
+            {
+              "EmployeeId": 109,
+              "EmployeeName": "Joseph",
+              "Skills": [
+                "Python",
+                "Golang",
+                "FastAPI"
+              ]
+            },
+            {
+              "EmployeeId": 110,
+              "EmployeeName": "Jasmine",
+              "Skills": [
+                "PHP",
+                "React"
+              ]
+            }
+          ],
+          "ProjectId": 5,
+          "ProjectName": "Zomato"
+        },
+        {
+          "Employees": [
+            {
+              "EmployeeId": 111,
+              "EmployeeName": "Paul",
+              "Skills": [
+                "Python",
+                "Flask"
+              ]
+            },
+            {
+              "EmployeeId": 112,
+              "EmployeeName": "James",
+              "Skills": [
+                "Kotlin",
+                "Ruby"
+              ]
+            }
+          ],
+          "ProjectId": 6,
+          "ProjectName": "TataMotors"
+        }
+      ]
+    }
+  ]
+}
